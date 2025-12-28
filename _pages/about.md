@@ -1,23 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
-
 I am a Ph.D. candidate at **South China University of Technology**, expected to graduate in **June 2026**, actively seeking postdoctoral and faculty positions. I am sincere, approachable, and highly responsible, with strong learning ability, adaptability under pressure, and flexible thinking. Passionate about technology, I maintain a broad academic and technical perspective and continuously track cutting-edge developments. A true tech enthusiast, I enjoy exploring new technologies and applying them to combinatorial innovation, often leveraging interdisciplinary thinking to solve complex problems.
 
 ---
 
 ## Research Interests
 
-- **Tactile sensing arrays & Super-resolution techniques**
-- **Multimodal flexible sensors & Signal processing**
-- **Micro/Nano Functional Structure Engineering**
+- Tactile sensing arrays & Super-resolution techniques
+- Multimodal flexible sensors & Signal processing
+- Micro/Nano Functional Structure Engineering
 
 ---
 
@@ -56,10 +53,10 @@ I am a Ph.D. candidate at **South China University of Technology**, expected to 
   - Machine Learning & Deep Learning Frameworks: PyTorch, PaddlePaddle, Scikit-learn
   - Computer Vision & Active Learning: OpenCV, ModAL
   - Programming & Scripting: Python, C, C++, MATLAB, WeChat App Development
-  -  Data Processing, Analysis & Visualization Techniques   Model Training, Hyperparameter Optimization & Performance Evaluation
+  - Data Processing, Analysis & Visualization Techniques   Model Training, Hyperparameter Optimization & Performance Evaluation
 
 ---
 
 ## Personal Interests
 
-Anime, gaming, basketball, badminton, writing, fishing, cooking, running ... and a lot.
+Anime, gaming, basketball, badminton, writing, fishing, cooking, running ... emm and a lot.
