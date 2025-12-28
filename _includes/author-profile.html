@@ -45,7 +45,6 @@
         </li>
       {% endif %}
 
-20251228_174559
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
@@ -93,14 +92,14 @@
         </li>
       {% endif %}
 
-      {% if author.webofscience %}
-        <li>
-          <a href="{{ author.webofscience }}" target="_blank" title="Web of Science">
-            <img src="../images/wos-icon.png" alt="WoS" style="width:16px;height:16px;" class="icon-pad-right"/>
-            Web of Science
-          </a>
-        </li>
-      {% endif %}
+    {% if author.webofscience %}
+      <li>
+        <a href="{{ author.webofscience }}" target="_blank" title="Web of Science">
+          <i class="fas fa-fw fa-book icon-pad-right" aria-hidden="true"></i>Web of Science
+        </a>
+      </li>
+    {% endif %}
+
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
