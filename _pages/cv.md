@@ -80,10 +80,10 @@ Teaching
 
 ### Academia
 
-- [English CV](./files/Xiaohua Wu-CV.pdf)
-- [Chinese CV](./files/吴小华-中文简历.pdf)
+- [English CV](https://liaoquewuhen.github.io/wuxh.github.io//files/Xiaohua Wu-CV.pdf)
+- [Chinese CV](https://liaoquewuhen.github.io/wuxh.github.io/files/吴小华-中文简历.pdf)
 
 ### Industry
 
-- [Chinese Resume](./files/吴小华-工业界.pdf)
-- [Portfolio](./files/吴小华-项目作品集.pdf)
+- [Chinese Resume](https://liaoquewuhen.github.io/wuxh.github.io/files//吴小华-工业界.pdf)
+- [Portfolio](https://liaoquewuhen.github.io/wuxh.github.io/files/吴小华-项目作品集.pdf)
