@@ -78,6 +78,8 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% elsif post.publisher_url %}
+      <p><a href="{{ post.publisher_url }}" target="_blank">Publisher version</a></p>    
     {% endif %}
 
   </article>
