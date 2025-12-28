@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: '<img src="../images/favicon-192x192.png" style="width:1em;height:1em;margin-right:0.3em;"> Profile'
+title: '<img src="/images/favicon-192x192.png" style="width:1em;height:1em;margin-right:0.3em;"> Profile'
 author_profile: true
 redirect_from: 
   - /about/
