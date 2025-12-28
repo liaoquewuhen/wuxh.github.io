@@ -36,6 +36,15 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      
+      {% if author.wechat %}
+        <li>
+          <a href="{{ author.wechat }}" target="_blank" title="WeChat">
+            <i class="fab fa-fw fa-weixin icon-pad-right" aria-hidden="true"></i>WeChat
+          </a>
+        </li>
+      {% endif %}
+
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
@@ -74,14 +83,7 @@
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
-      {% if author.wechat %}
-        <li>
-          <a href="{{ author.wechat }}" target="_blank" title="WeChat">
-            <img src="{{ author.wechat }}" alt="WeChat" style="width:16px;height:16px;" class="icon-pad-right"/>
-            WeChat
-          </a>
-        </li>
-      {% endif %}
+
 
       {% if author.csdn %}
         <li>
@@ -94,7 +96,7 @@
       {% if author.webofscience %}
         <li>
           <a href="{{ author.webofscience }}" target="_blank" title="Web of Science">
-            <img src="/images/wos-icon.png" alt="WoS" style="width:16px;height:16px;" class="icon-pad-right"/>
+            <img src="../images/wos-icon.png" alt="WoS" style="width:16px;height:16px;" class="icon-pad-right"/>
             Web of Science
           </a>
         </li>
