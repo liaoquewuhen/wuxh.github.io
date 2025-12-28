@@ -27,13 +27,13 @@ author:
   name             : "Xiaohua Wu (吴小华)"
   pronouns         : # example: "she/her"  
   bio              : "passionate about tactile sensing, advanced manufacturing, and interdisciplinary innovation."
-  location         : "China, Guangzhou"
+  location         : "Guangzhou, China"
   employer         : "South China University of Technology"
   uri              : # URL
   email            : "wxhscut@163.com" 
 
   # Academic websites
-  wechat           : "wuxh651753474"
+  # wechat           : "wuxh651753474"
   csdn             : "https://blog.csdn.net/lqwh4666?type=blog"
   webofscience     : "https://webofscience.clarivate.cn/wos/author/record/37688292"
 
