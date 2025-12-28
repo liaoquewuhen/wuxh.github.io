@@ -1,41 +1,17 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.author.github %}
-      <li>
-        <a href="https://github.com/{{ site.author.github }}">
-          <i class="fab fa-github" aria-hidden="true"></i>
-        </a>
-      </li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li>
-        <a href="https://bitbucket.org/{{ site.author.bitbucket }}">
-          <i class="fab fa-bitbucket" aria-hidden="true"></i>
-        </a>
-      </li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-      <li>
-        <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}">
-          <i class="fa fa-rss-square" aria-hidden="true"></i>
-        </a>
-      </li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
-
-<div class="page__footer-custom" style="text-align:center; padding: 1.5rem 0;">
+<div class="page__footer-custom" style="
+  text-align: center;
+  padding: 1.8rem 0;
+  background: transparent;
+">
 
   <!-- Research keywords -->
   <div style="
-    font-size: 0.85rem;
-    letter-spacing: 0.08em;
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: #6b7280;
+    color: #d1d5db;
     margin-bottom: 0.6rem;
   ">
     Tactile intelligence &middot; Flexible sensors &middot; Interdisciplinary innovation
@@ -45,8 +21,8 @@
   <div style="
     font-size: 1rem;
     font-weight: 500;
-    color: #111827;
-    margin-bottom: 0.8rem;
+    color: #ffffff;
+    margin-bottom: 0.9rem;
   ">
     Engineering inspired by nature, driven by curiosity.
   </div>
