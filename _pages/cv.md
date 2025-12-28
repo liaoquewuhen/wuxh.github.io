@@ -71,11 +71,19 @@ Talks
 Teaching
 ========
 
-<ul>{% for post in site.teaching reversed %}
+`<ul>`{% for post in site.teaching reversed %}
+
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}`</ul>`
 
-Service and leadership
-======================
+## Download PDF Version of My CV
 
-* Currently signed in to 43 different slack teams
+### Academia
+
+- [English CV](./files/Xiaohua Wu-CV.pdf)
+- [Chinese CV](./files/吴小华-中文简历.pdf)
+
+### Industry
+
+- [Chinese Resume](./files/吴小华-工业界.pdf)
+- [Portfolio](./files/吴小华-项目作品集.pdf)
