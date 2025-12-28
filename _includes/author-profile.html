@@ -74,6 +74,31 @@
       {% if author.zotero %}
         <li><a href="{{ author.zotero }}"><i class="ai ai-zotero ai-fw icon-pad-right"></i>Zotero</a></li>
       {% endif %}
+      {% if author.wechat %}
+        <li>
+          <a href="{{ author.wechat }}" target="_blank" title="WeChat">
+            <img src="{{ author.wechat }}" alt="WeChat" style="width:16px;height:16px;" class="icon-pad-right"/>
+            WeChat
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.csdn %}
+        <li>
+          <a href="{{ author.csdn }}" target="_blank" title="CSDN">
+            <i class="fab fa-fw fa-cuttlefish icon-pad-right" aria-hidden="true"></i>CSDN
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.webofscience %}
+        <li>
+          <a href="{{ author.webofscience }}" target="_blank" title="Web of Science">
+            <img src="/images/wos-icon.png" alt="WoS" style="width:16px;height:16px;" class="icon-pad-right"/>
+            Web of Science
+          </a>
+        </li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
