@@ -71,10 +71,10 @@ Talks
 Teaching
 ========
 
-`<ul>`{% for post in site.teaching reversed %}
+{% for post in site.teaching reversed %}
 
     {% include archive-single-cv.html %}
-  {% endfor %}`</ul>`
+  {% endfor %}
 
 ## Download PDF Version of My CV
 
