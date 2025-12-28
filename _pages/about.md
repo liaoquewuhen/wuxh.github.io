@@ -56,5 +56,3 @@ I am a Ph.D. candidate at **South China University of Technology**, expected to 
 ## Personal Interests
 
 Anime, gaming, basketball, badminton, writing, fishing, cooking, running ... emm and a lot.
-
-[Wechat](./images/wechat_QRcode.jpg)

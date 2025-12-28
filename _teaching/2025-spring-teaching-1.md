@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "Teaching Assistant: Technological Innovation: Methods and Practice"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2025-spring-teaching-1

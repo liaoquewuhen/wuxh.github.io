@@ -1,0 +1,11 @@
+---
+title: "A Deep Learning-Enabled Skin-Inspired Pressure Sensor for Complicated Recognition Tasks with Ultralong Life"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-06-07-paper-title-number-1
+excerpt: 'Inspired by human tactile perception, we developed a multilayer all-textile pressure sensor capable of capturing local pressure variations with a single element. It enables high-precision recognition of complex tasks, offering a practical, cost-effective approach for wearable sensing and human-machine interaction.'
+date: 2023-06-07
+venue: 'Research'
+paperurl: 'https://liaoquewuhen.github.io/wuxh.github.io//files/paper1.pdf'
+---
+This study addresses the challenge of designing all-textile pressure sensors that simultaneously achieve high sensitivity, wide detection range, and long-term durability. Inspired by the tactile perception mechanisms of human skin, we developed a multilayer all-textile pressure sensor using a simple dip-dry fabrication method. The sensor integrates a signal transmission layer, a protective layer, and a sensing layer, enabling it to capture local pressure variations with a single element. It demonstrates high-precision performance in complex tasks such as handwritten digit recognition and human activity monitoring. This work provides a novel, efficient, and cost-effective strategy for developing electronic textiles for human-machine interaction and wearable activity sensing.
