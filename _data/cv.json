@@ -1,62 +1,57 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Wuxh",
+    "email": "mewuxiaohua@mail.scut.edu.cn | wxhscut@163.com",
+    "phone": "+86 13553967653",
+    "website": "https://liaoquewuhen.github.io/wuxh.github.io",
+    "summary": "Currently studyed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "381 Wushan Rd",
+      "postalCode": "511442",
+      "city": "Guangzhou",
+      "countryCode": "CN",
+      "region": "Tianhe"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=Vojd2soAAAAJ"
       },
       {
-        "network": "ORCID",
+        "network": "Web of Science",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://webofscience.clarivate.cn/wos/author/record/37688292"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "South China University of Technology",
+      "area": "Ph.D in Mechanical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "South China University of Technology",
+      "area": "Master-PhD Track in Mechanical Design and Automation",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "South China University of Technology",
+      "area": "B. Eng.  in Mechanical Engineering (Innovation Class)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2021",
+      "gpa": 3.74,
       "courses": []
     }
   ],
