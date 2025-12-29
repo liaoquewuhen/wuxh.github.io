@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About Me
 
-I am a Ph.D. candidate at **South China University of Technology**, expected to graduate in **June 2026**, actively seeking postdoctoral and faculty positions. I am sincere, approachable, and highly responsible, with strong learning ability, adaptability under pressure, and flexible thinking. Passionate about technology, I maintain a broad academic and technical perspective and continuously track cutting-edge developments. A true tech enthusiast, I enjoy exploring new technologies and applying them to combinatorial innovation, often leveraging interdisciplinary thinking to solve complex problems.
+I am a Ph.D. candidate at **South China University of Technology**, expected to graduate in **June 2026**, actively seeking postdoctoral and faculty positions. I am sincere, approachable, and highly responsible, with strong learning ability, adaptability under pressure, and flexible thinking. Passionate about technology, I maintain a broad academic and technical perspective and continuously track cutting-edge developments. A tech enthusiast, I enjoy exploring new technologies and applying them to combinatorial innovation, often leveraging interdisciplinary thinking to solve complex problems.
 
 ## Download PDF Version of My CV
 
