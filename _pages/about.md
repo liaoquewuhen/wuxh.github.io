@@ -43,8 +43,6 @@ I am a Ph.D. candidate at **South China University of Technology**, expected to 
   - Gold Award (Provincial) & Bronze Award (National), “Internet+” Innovation Competition, 2021
   - Grand Prize (University) & Second Prize (National), Esquel Cup Innovation Competition, 2021
 
----
-
 ## Skills & Expertise
 
 - **Mechanical Design & Fabrication:**
